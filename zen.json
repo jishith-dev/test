@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "author": "Jishith-dev",
+  "repo": "https://github.com/Jishith-dev/test",
+  "description": "A simple Zen test project.",
+  "main": "main.zen",
+  "dependencies": {}
+}
