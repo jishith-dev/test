@@ -1,0 +1,3 @@
+import (App, Request, listen) from "drift"
+
+screen("Hello from Axion using Drift")

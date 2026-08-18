@@ -1,0 +1,5 @@
+import (haha) from "recursive-lib"
+
+fn add() {}
+
+export (add)

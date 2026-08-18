@@ -1,0 +1,11 @@
+{
+  "name": "axion",
+  "version": "1.0.0",
+  "author": "Jishith-dev",
+  "repo": "https://github.com/Jishith-dev/test",
+  "description": "A test package that depends on Drift",
+  "main": "main.zen",
+  "dependencies": {
+    "drift": "1.0.0"
+  }
+}
